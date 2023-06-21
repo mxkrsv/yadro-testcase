@@ -1,0 +1,8 @@
+IndentWidth: 8
+TabWidth: 8
+UseTab: Always
+ColumnLimit: 100
+ContinuationIndentWidth: 8
+IndentCaseLabels: True
+AllowShortBlocksOnASingleLine: Never
+AllowShortCaseLabelsOnASingleLine: False
